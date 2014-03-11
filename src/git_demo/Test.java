@@ -1,5 +1,7 @@
 package git_demo;
 
 public class Test {
-   new Test();
+	public Test() {
+		// TODO Auto-generated constructor stub
+	}
 }
